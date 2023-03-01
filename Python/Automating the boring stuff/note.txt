@@ -1,0 +1,12 @@
+Controle de fluxo:
+
+Instruções do controle de fluxo = ('De acordo com condições, podem 
+decidir quais instruções o Python deve executar')
+
+fluxograma = ('Um programa de computador, assim como um fluxograma
+tem suas instruções ramificadas')
+
+booleano = ('Verdadeiro ou falso / True False')
+
+
+
